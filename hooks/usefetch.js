@@ -1,0 +1,1 @@
+// Vill lära mig mer om fullstack. Något jobb jag trivs med och som blir lite fria arbetstider.
